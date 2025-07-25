@@ -3,4 +3,8 @@ name = "command"
 version.workspace = true
 edition.workspace = true
 
+[lib]
+name = "command"
+crate-type = ["lib"]
+
 [dependencies]
