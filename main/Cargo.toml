@@ -6,6 +6,3 @@ edition.workspace = true
 [[bin]]
 name = "main"
 path = "src/main.rs"
-
-[dependencies]
-command = { path = "../command" }

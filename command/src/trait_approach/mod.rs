@@ -1,4 +1,4 @@
-pub mod add_field;
-pub mod create_table;
-pub mod migration;
-pub mod schema;
+mod add_field;
+mod create_table;
+mod migration;
+mod schema;
