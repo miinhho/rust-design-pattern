@@ -1,4 +1,4 @@
-use crate::migration::Migration;
+use super::migration::Migration;
 
 pub struct AddField;
 
