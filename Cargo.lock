@@ -3,5 +3,9 @@
 version = 4
 
 [[package]]
-name = "maze-game"
+name = "command"
+version = "0.1.0"
+
+[[package]]
+name = "main"
 version = "0.1.0"
