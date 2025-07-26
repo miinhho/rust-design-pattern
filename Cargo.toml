@@ -1,6 +1,6 @@
 [workspace]
 members = [ "builder",
-    "command", "interpreter",
+    "command", "compose_struct", "interpreter",
     "main"
 , "new_type", "strategy", "visitor"]
 resolver = "3"
