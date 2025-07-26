@@ -1,3 +1,4 @@
+mod adder;
 mod formatter;
 mod json;
 mod report;
