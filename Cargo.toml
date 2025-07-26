@@ -1,5 +1,5 @@
 [workspace]
-members = [
+members = [ "builder",
     "command", "interpreter",
     "main"
 , "new_type", "strategy", "visitor"]
