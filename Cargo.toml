@@ -2,7 +2,7 @@
 members = [
     "command", "interpreter",
     "main"
-]
+, "new_type"]
 resolver = "3"
 
 [workspace.package]
